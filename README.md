@@ -1,7 +1,7 @@
 # What's this?
-This repository is a sample application using Compose Multiplatform with ViewModel.
+This repository is a sample of Navigation using Compose Multiplatform.
 
 # Why?
-Using Compose Multiplatform, we cannot use AAC ViewModel in :shared module.
+Using Compose Multiplatform, we cannot use navigation-compose
 
-This template depends on [compose-multiplatform-di-template](https://github.com/yoshimuratakuma0/compose-multiplatform-di-template)
+This template depends on [compose-multiplatform-viewmodel-template](https://github.com/yoshimuratakuma0/compose-multiplatform-viewmodel-template)
